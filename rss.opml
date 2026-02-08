@@ -49,7 +49,7 @@
     </outline>
     <outline text="Personal Blogs">
       <outline htmlUrl="https://ploum.net/index_en.html" type="rss" text="le blog de Lionel Dricot" title="Ploum.net" xmlUrl="https://ploum.net/atom_en.xml" />
-      <outline htmlUrl="https://vkc.sh/blog/" type="rss" text="Veronica explains even more" title="VKC.sh | Veronica Explains" xmlUrl="https://vkc.sh/feed/" />
+      <outline htmlUrl="https://veronicaexplains.net/" type="rss" text="Linux mom, vintage tech enthusiast, nerdy musician." title="Veronica Explains" xmlUrl="https://veronicaexplains.net/rss/" />
       <outline htmlUrl="https://pluralistic.net/" type="rss" text="No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period." title="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" />
       <outline htmlUrl="https://pointieststick.com/" type="rss" text="Below is a brief look at recent changes in the KDE projects I work on and follow!" title="Adventures in Linux and KDE" xmlUrl="https://pointieststick.com/feed/" />
       <outline htmlUrl="https://blog.cryptographyengineering.com/" type="rss" text="Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds." title="A Few Thoughts on Cryptographic Engineering" xmlUrl="https://blog.cryptographyengineering.com/feed/" />
