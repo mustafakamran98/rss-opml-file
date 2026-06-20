@@ -7,7 +7,7 @@
     <outline text="Tech - News">
       <outline htmlUrl="https://arstechnica.com" type="rss" text="Serving the Technologist for more than a decade. IT news, reviews, and analysis." title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" />
       <outline htmlUrl="https://www.theverge.com/" type="rss" text="" title="The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" />
-      <outline htmlUrl="https://www.theregister.com/" type="rss" text="Biting the hand that feeds IT - Enterprise Technology News and Analysis" title="The Register" xmlUrl="https://www.theregister.com/headlines.atom" />
+      <outline htmlUrl="https://www.theregister.com/" type="rss" text="Biting the hand that feeds IT - Enterprise Technology News and Analysis" title="The Register" xmlUrl="https://www.theregister.com/?lab_viewport=rss" />
       <outline htmlUrl="https://www.bleepingcomputer.com/" type="rss" text="BleepingComputer - All Stories" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
       <outline htmlUrl="https://www.nytimes.com/section/technology" type="rss" text="" title="NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
       <outline htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1019" type="rss" text="Latest technology news and breakthroughs in technology, science, and industry. Download the NPR Technology podcast and Technology RSS feed." title="Technology : NPR" xmlUrl="https://feeds.npr.org/1019/rss.xml" />
